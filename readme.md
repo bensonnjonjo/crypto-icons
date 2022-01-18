@@ -13,13 +13,3 @@ Icons from coinmarketcap
 <img src="https://raw.githubusercontent.com/jsupa/crypto-icons/main/icons/reef.png">
 <img src="https://raw.githubusercontent.com/jsupa/crypto-icons/main/icons/doge.png">
 ```
-
-<br>
-<img align="right" src="https://creepy-corp.eu/git/jsupa/crypto-icons/get.php?token=xrp">
-<img align="right" src="https://creepy-corp.eu/git/jsupa/crypto-icons/get.php?token=jsupa">
-
-```html
-<!-- img in html (404, XRP)-->
-<img src="https://creepy-corp.eu/git/jsupa/crypto-icons/get.php?token=xrp">
-<img src="https://creepy-corp.eu/git/jsupa/crypto-icons/get.php?token=jsupa">
-```
