@@ -2,7 +2,7 @@
 
 Icons from coinmarketcap
 ### How to use
-- link (faster): https://raw.githubusercontent.com/jsupa/crypto-icons/main/icons/reef.png
+- link (faster): https://raw.githubusercontent.com/bensonnjonjo/crypto-icons/main/icons/reef.png
 
 <img align="right" src="https://raw.githubusercontent.com/bensonnjonjo/crypto-icons/main/icons/reef.png">
 <img align="right" src="https://raw.githubusercontent.com/bensonnjonjo/crypto-icons/main/icons/doge.png">
