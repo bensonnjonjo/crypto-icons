@@ -3,13 +3,12 @@
 Icons from coinmarketcap
 ### How to use
 - link (faster): https://raw.githubusercontent.com/jsupa/crypto-icons/main/icons/reef.png
-- link /w 404: https://creepy-corp.eu/git/jsupa/crypto-icons/get.php?token=xrp
 
-<img align="right" src="https://raw.githubusercontent.com/jsupa/crypto-icons/main/icons/reef.png">
-<img align="right" src="https://raw.githubusercontent.com/jsupa/crypto-icons/main/icons/doge.png">
+<img align="right" src="https://raw.githubusercontent.com/bensonnjonjo/crypto-icons/main/icons/reef.png">
+<img align="right" src="https://raw.githubusercontent.com/bensonnjonjo/crypto-icons/main/icons/doge.png">
 
 ```html
 <!-- img in html (faster method)-->
-<img src="https://raw.githubusercontent.com/jsupa/crypto-icons/main/icons/reef.png">
-<img src="https://raw.githubusercontent.com/jsupa/crypto-icons/main/icons/doge.png">
+<img src="https://raw.githubusercontent.com/bensonnjonjo/crypto-icons/main/icons/reef.png">
+<img src="https://raw.githubusercontent.com/bensonnjonjo/crypto-icons/main/icons/doge.png">
 ```
