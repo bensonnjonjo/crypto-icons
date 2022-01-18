@@ -1,4 +1,4 @@
-# Crypto icons colection <img src="https://visitor-badge.laobi.icu/badge?page_id=jsupa.crypto-icons">
+# Crypto icons collection
 
 Icons from coinmarketcap
 ### How to use
